@@ -1,0 +1,16 @@
+.main-heading {
+    color : blue;
+}
+.paragraph1 {
+    color : black;
+    font-weight : bold;
+}
+.paragraph2 {
+    color : grey;
+    font-weight : bold;
+    font-style : italic;
+}
+.image1 {
+    height : 30vh;
+    
+}
